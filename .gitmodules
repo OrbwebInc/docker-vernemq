@@ -1,0 +1,3 @@
+[submodule "src/vernemq"]
+	path = src/vernemq
+	url = https://github.com/erlio/vernemq.git
